@@ -1,10 +1,10 @@
 # Resources
 
 1. ### MDP revision
-    #### (UC Berkeley CS188 Intro to AI)
-    - [MDP 1 video](https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M)
+     [UC Berkeley CS188 Intro to AI - Fall 18](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+    - [MDP 1 lecture 2012](https://www.youtube.com/watch?feature=player_embedded&v=wKx4MuLfe0M) -  ([Fall 18 version](https://www.youtube.com/watch?v=4LW3H_Jinr4))
 
-    - [MDP 2 video](https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg)
+    - [MDP 2 lecture 2012](https://www.youtube.com/watch?feature=player_embedded&v=2M7mv4-BPCg) -  ([Fall 18 version](https://www.youtube.com/watch?v=ZToWj64rxvQ))
 
 2. ### David Silver's course on RL
     - [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
