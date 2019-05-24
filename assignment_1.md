@@ -3,6 +3,7 @@
 ### Suggested reading/lectures
 
 [MDP 1](https://www.youtube.com/watch?v=4LW3H_Jinr4)
+
 [MDP 2](https://www.youtube.com/watch?v=ZToWj64rxvQ)
 
 The above 2 videos are from [CS 188 - Intro to AI Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/) and you can find notes and other resources on the website.
